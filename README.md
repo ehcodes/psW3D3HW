@@ -1,16 +1,5 @@
-[](#practice-what-you-learned)Practice What You Learned
+[](#practice-what-you-learned)Practice What You Learned: Static Methods and Properties
 =======================================================
-
-Create a `JavaScript` `REPL` from [repl.it](https://repl.it) -- you can name it `"JavaScript Classes HW 2"`.\`
-
-[](#complete-all-work-in-your-replit)Complete all work in your REPL.it
-----------------------------------------------------------------------
-
-[](#then-submit-the-link-to-your-replit-in-canvas)Then Submit The Link To Your REPL.it in Canvas
-------------------------------------------------------------------------------------------------
-
-[](#static-methods-and-properties)Static Methods and Properties
-===============================================================
 
     class Governor {
     
